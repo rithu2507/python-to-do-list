@@ -1,0 +1,21 @@
+{
+"tasks":[
+
+    {  
+        "task": "hani"
+        "status": "completed"
+    },
+    {
+        "task": "rithu"
+        "status": "completed"
+    },
+    {
+        "task": "marika"
+        "status": "completed"
+    },
+    {
+        "task": "diaman"
+        "status": "completed"
+    }
+]
+}
